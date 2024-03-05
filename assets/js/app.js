@@ -10,5 +10,6 @@ $(document).ready(function() {
         dots:true,
         arrows: true,
         dotsClass: 'container dots',
+        autoplay: true
     });
 });
